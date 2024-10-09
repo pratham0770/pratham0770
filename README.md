@@ -1,5 +1,8 @@
 # 💫 About Me:
-I' am currently learning engineering
+I' am currently learning engineering but I'am in frist year engineering student
+my goal is work in google company
+I learn already python, c sereis program
+I'am before entireing second year i will learn flutter
 
 
 ## 🌐 Socials:
